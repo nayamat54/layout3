@@ -1,0 +1,50 @@
+  
+{
+ margin:0px;
+box-sizing: border-box;
+
+}
+Header{
+color: yellow;
+height: 200px;
+width:100% ;
+text-align: center;
+font-size: 40px;
+background-color: red;
+}
+.nav{ 
+    color: blue ;
+height: 100px;
+width:100% ;
+text-align: center;
+font-size: 40px;
+background-color:green;
+}
+.main{
+display: flex;
+}
+.add{
+ color:yellowgreen ;
+height: 200px;
+width:50% ;
+text-align: center;
+font-size:40px;
+background-color:brown;
+}
+.add1{
+    color:blue;
+    height: 200px;
+    width:50%;
+    text-align: center;
+    font-size: 40px;
+    background-color:burlywood;
+}
+.manu{
+    color:aqua;
+    background-color:orangered;
+    height: 50px;
+    width:100 ;
+    text-align: center ;
+    font-size:50px ;
+
+}
